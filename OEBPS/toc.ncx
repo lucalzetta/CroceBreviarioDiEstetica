@@ -17,35 +17,104 @@
       </navLabel>
       <content src="Text/Section0001.xhtml"/>
     </navPoint>
+    
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Informazioni</text>
       </navLabel>
       <content src="Text/Section0002.xhtml"/>
     </navPoint>
+    
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>Liber Liber</text>
       </navLabel>
       <content src="Text/Section0003.xhtml"/>
     </navPoint>
+    
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>Indice</text>
       </navLabel>
       <content src="Text/Section0004.xhtml"/>
     </navPoint>
+    
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>AVVERTENZA</text>
       </navLabel>
       <content src="Text/Section0005.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    
+    <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>I. «Che cosa è l'arte»</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0006.xhtml"/>
     </navPoint>
+
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II. Pregiudizî Intorno all'arte</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>III. Il posto dell'arte nello spirito e nella società umana</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>IV. La critica e la storia  dell'arte</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Inizio, periodi e carattere della storia dell'Estetica</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Il carattere di totalità dell'espressione artistica</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Appendice - Le due scienze mondane: l'Estetica e l'Economica:</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>I. Spirito e senso</text>
+      </navLabel>
+      <content src="Text/Section0013.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>II. Spirito e natura</text>
+      </navLabel>
+      <content src="Text/Section0014.xhtml"/>
+    </navPoint>
+
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>NOTE</text>
+      </navLabel>
+      <content src="Text/Section0015.xhtml"/>
+    </navPoint>
+    
   </navMap>
 </ncx>
