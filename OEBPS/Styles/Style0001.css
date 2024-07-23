@@ -7,7 +7,7 @@ text-align : center;
 }
 body
 {
-background-color: rgba(70, 50, 20, 0.2)
+background-color: rgba(170, 50, 20, 0.05);
 }
 #corpo_copertina {
 border-width : 0;
@@ -16,6 +16,7 @@ padding : 0;
 }
 h1 {
 text-align : center;
+font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
 text-align : center;
