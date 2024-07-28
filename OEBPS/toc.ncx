@@ -79,37 +79,59 @@
         <text>Inizio, periodi e carattere della storia dell'Estetica</text>
       </navLabel>
       <content src="Text/Section0010.xhtml"/>
+      <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_1"/>
+        </navPoint>
+        <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_2"/>
+        </navPoint>
+        <!--Titolo di secondo livello-->    
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#S_3"/>
+        </navPoint>
     </navPoint>
-
-    <navPoint id="navPoint-11" playOrder="11">
+    
+    <!--Titolo di primo livello-->    
+    <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
         <text>Il carattere di totalità dell'espressione artistica</text>
       </navLabel>
       <content src="Text/Section0011.xhtml"/>
     </navPoint>
 
-    <navPoint id="navPoint-12" playOrder="12">
+    <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
         <text>Appendice - Le due scienze mondane: l'Estetica e l'Economica:</text>
       </navLabel>
       <content src="Text/Section0012.xhtml"/>
     </navPoint>
 
-    <navPoint id="navPoint-13" playOrder="13">
+    <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
         <text>I. Spirito e senso</text>
       </navLabel>
       <content src="Text/Section0013.xhtml"/>
     </navPoint>
 
-    <navPoint id="navPoint-14" playOrder="14">
+    <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
         <text>II. Spirito e natura</text>
       </navLabel>
       <content src="Text/Section0014.xhtml"/>
     </navPoint>
 
-    <navPoint id="navPoint-15" playOrder="15">
+    <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
         <text>NOTE</text>
       </navLabel>
