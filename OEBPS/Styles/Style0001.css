@@ -5,19 +5,37 @@ border : #dddddd dashed 1px;
 padding : 1em;
 text-align : center;
 }
+
+/********************************************************
+*Proposta di modifica per rendere il fondo delle pagine *
+*leggermente ingiallito e più simile ai vecchi testi    *
+*che si trovano spesso in formato pdf                   *
+*Luca 04/08/2024                                        *
+********************************************************/
 body
 {
 background-color: rgba(170, 50, 20, 0.05);
 }
+/*******************************************************/
+
 #corpo_copertina {
 border-width : 0;
 margin : 0;
 padding : 0;
 }
+
+/********************************************************
+*Proposta di modifica per rendere il testo dei titoli   *
+*principali con un carattere leggermente diverso dal    *
+*corpo del testo e dare più movimento al capitolo.      *
+*Luca 04/08/2024                                        *
+********************************************************/
 h1 {
 text-align : center;
 font-family: Arial, Helvetica, sans-serif;
 }
+/*******************************************************/
+
 h2 {
 text-align : center;
 }
@@ -57,6 +75,20 @@ font-style: italic;
 .testo_destra {
 text-align : right;
 }
+
+/********************************************************
+*Proposta di modifica per l'inserimento di date a fine  *
+*paragrafo ma può essere estesa anche a brevi citazioni *
+*o frasi che vanno distanziate dal margine e allontanate*
+*dal testo che le precede per evidenziarle.             *
+*Luca 04/08/2024                                        *
+********************************************************/
+p.fine_paragrafo {
+margin-left : 15em;
+padding-top : 3em;
+}
+/*******************************************************/
+
 p.testo_dialogo {
 margin : 0 0 0 1em;
 text-indent : -1em;
